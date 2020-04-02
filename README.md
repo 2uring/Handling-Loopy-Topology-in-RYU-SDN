@@ -1,0 +1,2 @@
+# Handling-Loopy-Topology-in-RYU-SDN-
+The goal of this project is to install flow rules in switches in such a away that proper communication happens even if a loop exists in the network. Thi is has been done s an excercide to learn about the inner workings of the simple_switch_13.py and the topology api provided by the RYU Controller, therefore, I haven't used STP, and created a kind of my own STP here.
